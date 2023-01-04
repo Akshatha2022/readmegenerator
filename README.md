@@ -24,3 +24,22 @@ WHEN I enter my email address
 THEN this is added to the section of the README entitled Questions, with instructions on how to reach me with additional questions
 WHEN I click on the links in the Table of Contents
 THEN I am taken to the corresponding section of the README
+
+
+Application Requirements
+
+* Functional application.
+
+* GitHub repository with a unique name and a README describing project.
+
+* The generated README includes the following sections: 
+
+  * Title
+  * Description
+  * Table of Contents
+  * Installation
+  * Usage
+  * License
+  * Contributing
+  * Tests
+  * Questions
