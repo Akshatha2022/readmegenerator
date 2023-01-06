@@ -43,3 +43,6 @@ Application Requirements
   * Contributing
   * Tests
   * Questions
+
+
+https://www.npmjs.com/package/generate-readme
