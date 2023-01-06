@@ -45,4 +45,9 @@ Application Requirements
   * Questions
 
 
+Resources:
+https://stackoverflow.com/questions/47083351/node-module-not-found
 https://www.npmjs.com/package/generate-readme
+https://www.npmjs.com/package/inquirer/v/8.2.4
+https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide
+https://coding-boot-camp.github.io/full-stack/computer-literacy/video-submission-guide
