@@ -44,10 +44,28 @@ Application Requirements
   * Tests
   * Questions
 
+Screenshot:
+![](./ReadmeGeneratorScreenshot.jpg)
+
+
+
+Because this is a command-line application won’t be deployed, here is a <a href="https://drive.google.com/file/d/1FtW24vCoW2UsxN7xRWCpu0h9h4mNkJ2U/view" target="_blank">Link</a> to a video walkthrough that demonstrates the functionality of my application.
+
+
 
 Resources:
+
 https://stackoverflow.com/questions/47083351/node-module-not-found
+
 https://www.npmjs.com/package/generate-readme
+
 https://www.npmjs.com/package/inquirer/v/8.2.4
+
 https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide
+
 https://coding-boot-camp.github.io/full-stack/computer-literacy/video-submission-guide
+
+
+GitHUb Link: https://github.com/Akshatha2022/readmegenerator
+
+Video Walkthrough Link: <a href="https://drive.google.com/file/d/1FtW24vCoW2UsxN7xRWCpu0h9h4mNkJ2U/view">Link</a>
